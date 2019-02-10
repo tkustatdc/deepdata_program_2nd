@@ -861,6 +861,7 @@ h6 {
 .faq-details .panel-heading {
   padding: 0;
   margin-left: 200px;
+  margin-right: 200px;
 }
 
 .panel-default>.panel-heading {
